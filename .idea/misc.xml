@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://java.sun.com/dtd/web-app_2_3.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/extResources/d664ad10_web-app_2_3.dtd" />
+    <resource url="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/extResources/beee9943_web-app_3_0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/extResources/136af430_spring-mvc-4.0.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/extResources/9b192256_xml.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/extResources/38d1b0f3_spring-beans-4.0.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/extResources/938d5385_spring-tool-4.0.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
